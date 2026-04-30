@@ -29,7 +29,7 @@ Power BI
 
 ---
 
-<img width="1113" height="647" alt="image" src="https://github.com/MamadouLDiallo/Analyse-des-performances-Kin-Marche-/commit/4542ef90dff23f928380c6b2de98a58db8f57abf" />
+<img width="1113" height="647" alt="image" src="https://github.com/MamadouLDiallo/Analyse-des-performances-Kin-Marche-/blob/main/dashbord_marche.jpg" />
 
 ---
 
