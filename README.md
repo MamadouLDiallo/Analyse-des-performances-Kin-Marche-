@@ -21,7 +21,7 @@ Analyser les performances commerciales et faciliter la prise de décision à l�
 - Analyse rapide des performances  
 
 ## 🧠 Outils
-Power BI 
+- Power BI (visualisation et modélisation)
 
 ---
 
@@ -40,11 +40,11 @@ Power BI
 
 ### 🔍 Domaines d’intérêt
 
-* Data Analysis
+* Analyse de données
 * Business Intelligence
 * Machine Learning
-* Data Visualization 
-
+* Visualisation de données
+  
 ### 🔗 Me contacter
 - LinkedIn : https://www.linkedin.com/in/mamadou-lamarana-diallo-937430274/  
 - GitHub : https://github.com/MamadouLDiallo
