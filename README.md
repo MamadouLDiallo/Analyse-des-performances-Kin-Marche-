@@ -1,8 +1,6 @@
 # 📊 Tableau de Bord Business – Kin Marche
 Ce projet consiste en la conception d’un **tableau de bord interactif** permettant de suivre les performances commerciales de l’entreprise *Kin Marche*.
 
----
-
 ## 🎯 Objectif
 Analyser les performances commerciales et faciliter la prise de décision à l’aide d’un tableau de bord interactif.
 
@@ -27,15 +25,26 @@ Power BI
 
 ---
 
-## 📸 Aperçu
-![Dashboard](./dashboard.png)
+👉 Ce dashboard illustre la puissance de **Power BI** pour transformer des données financières en **insights exploitables**, facilitant ainsi le pilotage et l’anticipation stratégique.
+
+---
+
+<img width="1113" height="647" alt="image" src="dd" />
 
 ---
 
 ## 👨‍💻 Auteur
-**Mamadou Lamarana Diallo**  
-Master en Statistique et Informatique Décisionnelle  
 
-🔗 LinkedIn : (ton lien)  
-💻 GitHub : (ton lien)
-Que pensez vous de cette proposition
+**Mamadou Lamarana Diallo**  
+🎓 Diplômé d’un Master en Statistique et Informatique Décisionnelle  
+
+### 🔍 Domaines d’intérêt
+
+* Data Analysis
+* Business Intelligence
+* Machine Learning
+* Data Visualization 
+
+### 🔗 Me contacter
+- LinkedIn : https://www.linkedin.com/in/mamadou-lamarana-diallo-937430274/  
+- GitHub : https://github.com/MamadouLDiallo
