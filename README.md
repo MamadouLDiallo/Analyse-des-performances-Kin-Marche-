@@ -25,7 +25,7 @@ Analyser les performances commerciales et faciliter la prise de décision à l�
 
 ---
 
-👉 Ce dashboard illustre la puissance de **Power BI** pour transformer des données financières en **insights exploitables**, facilitant ainsi le pilotage et l’anticipation stratégique.
+👉 Ce dashboard met en évidence la capacité de Power BI à transformer des données financières en insights exploitables, facilitant la prise de décision stratégique.
 
 ---
 
