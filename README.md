@@ -1,7 +1,9 @@
 # 📊 Tableau de Bord Business – Kin Marche
+
 Ce projet consiste en la conception d’un **tableau de bord interactif** permettant de suivre les performances commerciales de l’entreprise *Kin Marche*.
 
 ## 🎯 Objectif
+
 Analyser les performances commerciales et faciliter la prise de décision à l’aide d’un tableau de bord interactif.
 
 ## 📊 KPI principaux
@@ -21,6 +23,7 @@ Analyser les performances commerciales et faciliter la prise de décision à l�
 - Analyse rapide des performances  
 
 ## 🧠 Outils
+
 - Power BI (visualisation et modélisation)
 
 ---
